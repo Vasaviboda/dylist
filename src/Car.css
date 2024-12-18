@@ -1,0 +1,50 @@
+*{
+    background-color:#bf6dc1;
+    margin: 0;
+   
+}
+.component{
+   
+     
+    
+    align-items: start;
+    justify-items: center;
+   font-size: 1.0 rem;
+   
+
+
+}
+button{
+    
+    width: 150px;
+    height: 40px;
+   font-size: 1.2rem;
+    outline: none;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color:#2f7509;
+    border: none;
+    color: white;
+}
+input{
+    background-color: aliceblue;
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+}
+input::placeholder{
+    color:rgb(11, 145, 31);
+    opacity: 10;
+    font-size: 1.2rem;
+    text-align: center;
+}
+li{
+    font-size: 1.2rem;
+    color: rgb(112, 8, 34);
+}
+
+#del{
+    
+    background-color: crimson;
+}
